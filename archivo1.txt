@@ -1,1 +1,2 @@
 Laboratorio 1 de Calidad de Software
+Este texto pertenece al segundo commit y no se ve en el primero
